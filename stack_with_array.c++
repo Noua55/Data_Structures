@@ -85,7 +85,7 @@ int main()
      s.pop();
  }
  cout<<"]";
- cout<<endl;
+ //cout<<endl;
 
  
 }
